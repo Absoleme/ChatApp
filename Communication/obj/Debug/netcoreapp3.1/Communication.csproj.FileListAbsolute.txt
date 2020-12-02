@@ -1,0 +1,9 @@
+/Users/aminebenslama/Desktop/ChatApp/Communication/bin/Debug/netcoreapp3.1/Communication.deps.json
+/Users/aminebenslama/Desktop/ChatApp/Communication/bin/Debug/netcoreapp3.1/Communication.dll
+/Users/aminebenslama/Desktop/ChatApp/Communication/bin/Debug/netcoreapp3.1/Communication.pdb
+/Users/aminebenslama/Desktop/ChatApp/Communication/obj/Debug/netcoreapp3.1/Communication.csprojAssemblyReference.cache
+/Users/aminebenslama/Desktop/ChatApp/Communication/obj/Debug/netcoreapp3.1/Communication.AssemblyInfoInputs.cache
+/Users/aminebenslama/Desktop/ChatApp/Communication/obj/Debug/netcoreapp3.1/Communication.AssemblyInfo.cs
+/Users/aminebenslama/Desktop/ChatApp/Communication/obj/Debug/netcoreapp3.1/Communication.csproj.CoreCompileInputs.cache
+/Users/aminebenslama/Desktop/ChatApp/Communication/obj/Debug/netcoreapp3.1/Communication.dll
+/Users/aminebenslama/Desktop/ChatApp/Communication/obj/Debug/netcoreapp3.1/Communication.pdb

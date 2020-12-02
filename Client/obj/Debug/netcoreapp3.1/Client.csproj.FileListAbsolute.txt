@@ -1,0 +1,15 @@
+/Users/aminebenslama/Desktop/ChatApp/Client/bin/Debug/netcoreapp3.1/Client.deps.json
+/Users/aminebenslama/Desktop/ChatApp/Client/bin/Debug/netcoreapp3.1/Client.runtimeconfig.json
+/Users/aminebenslama/Desktop/ChatApp/Client/bin/Debug/netcoreapp3.1/Client.runtimeconfig.dev.json
+/Users/aminebenslama/Desktop/ChatApp/Client/bin/Debug/netcoreapp3.1/Client.dll
+/Users/aminebenslama/Desktop/ChatApp/Client/bin/Debug/netcoreapp3.1/Client.pdb
+/Users/aminebenslama/Desktop/ChatApp/Client/bin/Debug/netcoreapp3.1/Communication.dll
+/Users/aminebenslama/Desktop/ChatApp/Client/bin/Debug/netcoreapp3.1/Communication.pdb
+/Users/aminebenslama/Desktop/ChatApp/Client/obj/Debug/netcoreapp3.1/Client.csprojAssemblyReference.cache
+/Users/aminebenslama/Desktop/ChatApp/Client/obj/Debug/netcoreapp3.1/Client.AssemblyInfoInputs.cache
+/Users/aminebenslama/Desktop/ChatApp/Client/obj/Debug/netcoreapp3.1/Client.AssemblyInfo.cs
+/Users/aminebenslama/Desktop/ChatApp/Client/obj/Debug/netcoreapp3.1/Client.csproj.CoreCompileInputs.cache
+/Users/aminebenslama/Desktop/ChatApp/Client/obj/Debug/netcoreapp3.1/Client.csproj.CopyComplete
+/Users/aminebenslama/Desktop/ChatApp/Client/obj/Debug/netcoreapp3.1/Client.dll
+/Users/aminebenslama/Desktop/ChatApp/Client/obj/Debug/netcoreapp3.1/Client.pdb
+/Users/aminebenslama/Desktop/ChatApp/Client/obj/Debug/netcoreapp3.1/Client.genruntimeconfig.cache

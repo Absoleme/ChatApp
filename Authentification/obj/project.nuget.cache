@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7lc2Z0cCqb5MKntG7jwjoVYigFEyq9hxDLcHIpBZPLuVYr8OgvoQqQceoRNtyrqv2yC2Q8c6BYxVctoLGCRbw==",
+  "success": true,
+  "projectFilePath": "/Users/aminebenslama/Desktop/ChatApp/Authentification/Authentification.csproj",
+  "expectedPackageFiles": [
+    "/Users/aminebenslama/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

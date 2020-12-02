@@ -1,0 +1,15 @@
+/Users/aminebenslama/Desktop/ChatApp/Server/bin/Debug/netcoreapp3.1/Server.deps.json
+/Users/aminebenslama/Desktop/ChatApp/Server/bin/Debug/netcoreapp3.1/Server.runtimeconfig.json
+/Users/aminebenslama/Desktop/ChatApp/Server/bin/Debug/netcoreapp3.1/Server.runtimeconfig.dev.json
+/Users/aminebenslama/Desktop/ChatApp/Server/bin/Debug/netcoreapp3.1/Server.dll
+/Users/aminebenslama/Desktop/ChatApp/Server/bin/Debug/netcoreapp3.1/Server.pdb
+/Users/aminebenslama/Desktop/ChatApp/Server/bin/Debug/netcoreapp3.1/Communication.dll
+/Users/aminebenslama/Desktop/ChatApp/Server/bin/Debug/netcoreapp3.1/Communication.pdb
+/Users/aminebenslama/Desktop/ChatApp/Server/obj/Debug/netcoreapp3.1/Server.csprojAssemblyReference.cache
+/Users/aminebenslama/Desktop/ChatApp/Server/obj/Debug/netcoreapp3.1/Server.AssemblyInfoInputs.cache
+/Users/aminebenslama/Desktop/ChatApp/Server/obj/Debug/netcoreapp3.1/Server.AssemblyInfo.cs
+/Users/aminebenslama/Desktop/ChatApp/Server/obj/Debug/netcoreapp3.1/Server.csproj.CoreCompileInputs.cache
+/Users/aminebenslama/Desktop/ChatApp/Server/obj/Debug/netcoreapp3.1/Server.csproj.CopyComplete
+/Users/aminebenslama/Desktop/ChatApp/Server/obj/Debug/netcoreapp3.1/Server.dll
+/Users/aminebenslama/Desktop/ChatApp/Server/obj/Debug/netcoreapp3.1/Server.pdb
+/Users/aminebenslama/Desktop/ChatApp/Server/obj/Debug/netcoreapp3.1/Server.genruntimeconfig.cache

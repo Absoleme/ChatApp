@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3pUE6VOoNqL8IG0cflLNMc0MqTZAjzNJfb3uqweFldXWg0C+oHGU4Hzkm82jkJBhRxZjTMW0gAoIGzj2dtKgA==",
+  "success": true,
+  "projectFilePath": "/Users/aminebenslama/Desktop/ChatApp/MainProgram/MainProgram.csproj",
+  "expectedPackageFiles": [
+    "/Users/aminebenslama/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
