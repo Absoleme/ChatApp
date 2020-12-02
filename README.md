@@ -15,7 +15,9 @@ List topics
 create topics
 
 join topics (only one - bonus : many at the same time)
+
 send messages to all chatters on a specific topic
+
 send private messages 
 ...
 You are free to add new functions to your app, but don't do that unless you've already implemented the ones given above. A graphical interface can be added to your app but this has to be the last phase in your project. 
