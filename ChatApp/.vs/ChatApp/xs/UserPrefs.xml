@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="ChattApp">
+  <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatApp" expanded="True">
+            <Node name="Client" expanded="True" />
+            <Node name="Server" expanded="True" />
+            <Node name="SharedLibrary" expanded="True">
+              <Node name="Messages" expanded="True">
+                <Node name="Request" expanded="True" />
+                <Node name="Response" expanded="True" />
+              </Node>
+              <Node name="PrivateMessage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Chat/Chat.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="ChattApp" Name="ChattApp">
+      <Items>
+        <StartupItem ItemId="{0B444E19-5498-4C15-842A-70B903CEA899}" ItemName="Client" ConfigurationId="Default" />
+        <StartupItem ItemId="{F0CAAC20-4FD2-49C2-9042-87B3FFDF0AB5}" ItemName="Server" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
